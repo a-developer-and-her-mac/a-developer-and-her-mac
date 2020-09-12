@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
 **a-developer-and-her-mac/a-developer-and-her-mac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🌱 I’m currently learning React, and deepening my understanding of Javascript. 
+
+- ⚡ Fun facts:
+  - I'm working on learning Norwegian in my spare moments.
+  - I play Irish Whistle. Hear what one sounds like [here](https://www.kerrywhistles.com/product-page/chieftain-v5-low-d-tuneable).
+
