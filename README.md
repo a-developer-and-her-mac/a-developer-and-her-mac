@@ -21,4 +21,13 @@ Here are some ideas to get you started:
 - ⚡ Fun facts:
   - I'm working on learning Norwegian in my spare moments.
   - I play Irish Whistle. Hear what one sounds like [here](https://www.kerrywhistles.com/product-page/chieftain-v5-low-d-tuneable).
+  
+  <br>
+  
+  [![Visits Badge](https://badges.pufler.dev/visits/a-developer-and-her-mac/a-developer-and-her-mac)](https://badges.pufler.dev)
+
+<br> 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=a-developer-and-her-mac&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
