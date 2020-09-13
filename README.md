@@ -21,7 +21,7 @@ I'm a student web dev, who right now is studying the MERN stack.
 
 - ⚡ Fun facts:
   - I'm working on learning Norwegian in my spare moments.
-  - I play Irish Whistle. Hear what one sounds like [here](https://www.kerrywhistles.com/product-page/chieftain-v5-low-d-tuneable).
+  - I play the Irish Whistle. Hear what one sounds like [here](https://www.kerrywhistles.com/product-page/chieftain-v5-low-d-tuneable).
   
   <br>
   
