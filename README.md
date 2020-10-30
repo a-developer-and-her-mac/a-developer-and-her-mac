@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm a student full stack web dev, who right now is studying the MERN stack, plus sundry other items. 
 
-- 🌱 I’m currently learning Vue.js
+- 🌱 I’m currently exploring serverless computing. 
 
 - ⚡ Fun facts:
   - I'm working on learning Norwegian in my spare moments.
