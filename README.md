@@ -25,8 +25,7 @@ I'm a student full stack web dev, who right now is studying the MERN stack, plus
   
   <br>
   
-  [![Visits Badge](https://badges.pufler.dev/visits/a-developer-and-her-mac/a-developer-and-her-mac)](https://badges.pufler.dev)
-
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=a-devloper-and-her-mac)
 
 <br> 
   
