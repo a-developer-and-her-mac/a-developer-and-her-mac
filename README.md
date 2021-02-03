@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a student full stack web dev, who right now is studying the MERN stack, plus sundry other items. 
+I'm a Web Developer, always looking to deepen my understanding of what interests me. 
 
-- 🌱 I’m currently exploring React Native. 
+- 🌱 I’m currently furthering my knowledge of Web Development in general. 
 
 - ⚡ Fun facts:
   - I'm working on learning Norwegian in my spare moments.
