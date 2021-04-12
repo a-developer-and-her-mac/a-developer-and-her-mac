@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm a Web Developer, always looking to deepen my understanding of what interests me. 
 
-- 🌱 I’m currently furthering my knowledge of Web Development in general. 
+- 🌱 I’m currently working my way through the React docs because I realized how beneficial it would be. 
 
 - ⚡ Fun facts:
   - I'm working on learning Norwegian in my spare moments.
