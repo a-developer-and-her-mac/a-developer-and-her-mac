@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm a Web Developer, always looking to deepen my understanding of what interests me. 
 
-- 🌱 I’m currently studying various computer science concepts. 
+- 🌱 I’m currently studying scoping in JavaScript. 
 
 - ⚡ Fun facts:
   - I'm working on learning Norwegian in my spare moments.
