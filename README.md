@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm a Web Developer, always looking to deepen my understanding of what interests me. 
 
 - ⚡ Fun facts:
-  - I'm working on learning Spanish in my spare moments.
+  - I'm working on learning Italian in my spare moments.
   - I play the Irish Whistle. Hear what one sounds like [here](https://www.kerrywhistles.com/product-page/chieftain-v5-low-d-tuneable).
 
 <br> 
