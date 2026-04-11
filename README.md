@@ -21,17 +21,6 @@ I'm a Web Developer, always looking to deepen my understanding of what interests
   - I'm working on learning Italian in my spare moments.
   - I play the Irish Whistle. Hear what one sounds like [here](https://www.kerrywhistles.com/product-page/chieftain-v5-low-d-tuneable).
 
-<br> 
   
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-developer-and-her-mac&layout=compact" />
-</a>
-
-<br>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=a-developer-and-her-mac&theme=radical" />
-</a>
-
 
   
